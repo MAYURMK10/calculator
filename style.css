@@ -33,7 +33,7 @@ body {
   overflow-y: hidden;
   scroll-behavior: smooth;      /* smooth scrolling */
   scrollbar-width: none;        /* hide scrollbar (Firefox) */
-  border-bottom: 2px solid #303030 ;
+  border-bottom: 1px solid #303030 ;
 }
 
 
@@ -84,4 +84,5 @@ button:active {
 
 .bu{
     background-color: #303030;
+
 }
