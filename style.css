@@ -58,7 +58,7 @@ button{
     font-size: 1rem;
     height: 35px;
     width: 35px;
-    border:2px solid #303030;
+    border:1px solid #303030;
     border-radius:50%;
     cursor:pointer;
     transition: transform 0.05s ease;
@@ -84,5 +84,4 @@ button:active {
 
 .bu{
     background-color: #303030;
-
 }
